@@ -11,7 +11,7 @@ use \Abollinger\Helpers;
  *
  * @package Partez\Api\View
  */
-final class Response
+class Response
 {
     /**
      * The current response data.
