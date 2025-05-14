@@ -1,0 +1,21 @@
+{
+    "name": "abollinger/response",
+    "description": "PHP Api response management for the partez framework.",
+    "type": "library",
+    "require": {
+        "abollinger/helpers": "^1.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abollinger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antoine Bollinger",
+            "email": "abollinger@partez.net"
+        }
+    ],
+    "version": "v1.0.0"
+}
